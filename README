@@ -1,0 +1,2 @@
+run by:
+RUST_LOG=INFO cargo run <bcf> 
